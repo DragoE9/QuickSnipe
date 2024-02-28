@@ -10,6 +10,7 @@ Make sure to rename the sheet to `sheet.xlsx` when replacing.
 
 ## Use
 **Step 1:** Pick your regions and place them in `regions.txt` like so
+
 ![Step 1](Screenshots/Screen1.png)
 
 **Step 2:** Run `QuickSnipe.py` and specify parameters. Regions to exclude should be seperated by commas ONLY. Trigger Length currently specifies the minimum trigger length. Quick Snipe will only pick a longer trigger if it can't find one of the specified length, and will never go shorter. All inputs are not case-sensitive.
