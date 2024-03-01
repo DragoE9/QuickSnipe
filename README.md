@@ -28,4 +28,4 @@ If you encounter any unexpected behavhiour while using it, please report it. If 
 
 ## Acknowledgements
 
-This tool would not exist without [QuickDraw](https://github.com/AavHRF/Quickdraw) by Aav, the original trigger setting tool, which inspired this one.
+This tool would not exist without [QuickDraw](https://github.com/Aptenodyte/Quickdraw) by Aptenodyte, the original trigger setting tool, which inspired this one.
