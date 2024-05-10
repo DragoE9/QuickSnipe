@@ -9,7 +9,7 @@ Spyglass can be found **[here](https://github.com/Derpseh/Spyglass)**
 Make sure to rename the sheet to `sheet.xlsx` when replacing.
 
 ## Use
-**Step 1:** Pick your regions and place them in `regions.txt` like so
+**Step 1:** Pick your regions and place them in `regions.txt` like so (it is capitalization agnoistic, but needs to be formated with spaces, as you would copy off the region page or from spyglass)
 
 ![Step 1](Screenshots/Screen1.png)
 
